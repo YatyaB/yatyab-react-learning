@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yatyab-react-learning/static/css/main.2c009481.css",
+    "main.js": "/yatyab-react-learning/static/js/main.90e750c9.js",
+    "index.html": "/yatyab-react-learning/index.html",
+    "main.2c009481.css.map": "/yatyab-react-learning/static/css/main.2c009481.css.map",
+    "main.90e750c9.js.map": "/yatyab-react-learning/static/js/main.90e750c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c009481.css",
+    "static/js/main.90e750c9.js"
+  ]
+}
