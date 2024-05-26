@@ -1,7 +1,7 @@
 {
   "name": "react-tutorial",
   "version": "0.1.0",
-  "homepage": "https://github.com/YatyaB/yatyab-react-learning.github.io.git",
+  "homepage": "https://YatyaB.github.io/yatyab-react-learning",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
