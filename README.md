@@ -13,17 +13,17 @@ This project is a simple React application built by following a tutorial to lear
 
 ## Installation / Установка 
 1. Clone the repository:
-   1. Клонирование репозитория:
-    ```bash
+1. Клонирование репозитория:
+   ```bash
     git clone https://github.com/YatyaB/yatyab-react-learning.git
-    ```
+   ```
 2. Navigate to the project directory:
-   2. Переход в директорию проекта:
+2. Переход в директорию проекта:
     ```bash
     cd yatyab-react-learning
     ```
 3. Install the dependencies:
-   3. Установка зависимостей:
+3. Установка зависимостей:
     ```bash
     npm install
     ```
